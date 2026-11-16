@@ -10,6 +10,7 @@ avec un réseau Embedding → GRU → Linear en PyTorch.
 | `model.py` | Le modèle `GRUTagger` (partagé par les deux scripts) |
 | `train_postag.py` | Lecture du corpus, vocabulaires, padding, entraînement, sauvegarde du meilleur modèle |
 | `predict_postag.py` | Chargement du modèle et prédiction des POS phrase par phrase |
+| `REVISION_ORAL.md` | Fiche de révision : explications, résultats, questions probables |
 | `resultats/train.log` | Sortie complète de l'entraînement (loss et accuracy par epoch) |
 | `resultats/postag.pt` | Modèle entraîné (paramètres + vocabulaires + hyper-paramètres) |
 | `resultats/test.pred.conllu` | Prédictions sur le corpus de test |
