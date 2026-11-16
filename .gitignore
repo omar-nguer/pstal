@@ -1,0 +1,11 @@
+# Fichiers générés automatiquement par Python / VS Code
+__pycache__/
+.vscode/
+.DS_Store
+
+# Fichiers de travail à la racine de chaque TP (les résultats officiels sont dans tpX/resultats/)
+tp*/*.pt
+tp*/*.pred.conllu
+
+# Supports de cours
+*.pdf

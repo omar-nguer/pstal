@@ -1,0 +1,22 @@
+Epoch 1 : train_loss = 1.5445 | dev_loss = 0.9566 | dev_acc = 0.7373
+Epoch 2 : train_loss = 0.8119 | dev_loss = 0.7057 | dev_acc = 0.8014
+Epoch 3 : train_loss = 0.6075 | dev_loss = 0.5796 | dev_acc = 0.8333
+Epoch 4 : train_loss = 0.4734 | dev_loss = 0.5105 | dev_acc = 0.8506
+Epoch 5 : train_loss = 0.3783 | dev_loss = 0.4532 | dev_acc = 0.8700
+Epoch 6 : train_loss = 0.3025 | dev_loss = 0.4173 | dev_acc = 0.8812
+Epoch 7 : train_loss = 0.2460 | dev_loss = 0.3976 | dev_acc = 0.8867
+Epoch 8 : train_loss = 0.1984 | dev_loss = 0.3792 | dev_acc = 0.8958
+Epoch 9 : train_loss = 0.1585 | dev_loss = 0.3701 | dev_acc = 0.8963
+Epoch 10 : train_loss = 0.1302 | dev_loss = 0.3628 | dev_acc = 0.9002
+Epoch 11 : train_loss = 0.1057 | dev_loss = 0.3695 | dev_acc = 0.9012
+Epoch 12 : train_loss = 0.0857 | dev_loss = 0.3714 | dev_acc = 0.9015
+Epoch 13 : train_loss = 0.0689 | dev_loss = 0.3723 | dev_acc = 0.9028
+Epoch 14 : train_loss = 0.0568 | dev_loss = 0.3825 | dev_acc = 0.9044
+Epoch 15 : train_loss = 0.0478 | dev_loss = 0.3807 | dev_acc = 0.9050
+Epoch 16 : train_loss = 0.0393 | dev_loss = 0.3875 | dev_acc = 0.9051
+Epoch 17 : train_loss = 0.0332 | dev_loss = 0.3942 | dev_acc = 0.9048
+Epoch 18 : train_loss = 0.0279 | dev_loss = 0.3966 | dev_acc = 0.9049
+Epoch 19 : train_loss = 0.0234 | dev_loss = 0.3987 | dev_acc = 0.9061
+Epoch 20 : train_loss = 0.0207 | dev_loss = 0.4179 | dev_acc = 0.9018
+Meilleur modèle : epoch 10 (dev_loss = 0.3628)
+Modèle sauvegardé dans resultats/postag.pt

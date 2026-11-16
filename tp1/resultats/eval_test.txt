@@ -1,0 +1,3 @@
+Predictions file: resultats/test.pred.conllu
+Accuracy on all upos: 90.43 ( 8679/ 9598)
+Accuracy on OOV upos: 51.75 (  472/  912)
